@@ -17,7 +17,7 @@ Look into data/users for login info of a sample user.
 Ensure your machine is set up for C++ development. While the `gmp.sh` script handles GMP, you also need tools like CMake and Make installed. On Linux, you can install these tools with:
 
 ```
-sudo apt install m4 cmake autoconf automake libtool
+sudo apt install m4 cmake autoconf automake libtool build-essential
 ```
 
 ### Unable to Build & Link GMP?
